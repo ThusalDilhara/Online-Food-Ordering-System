@@ -8,7 +8,9 @@ A responsive Online Food Ordering System built using **HTML, CSS, JavaScript, PH
 ✅ **Menu Display** – View available food items with descriptions and prices  
 ✅ **Cart System** – Add, update, or remove items from the cart before checkout  
 ✅ **Order Management** – Users can place orders, and admins can manage them  
-✅ **Secure Database** – Orders and user details are managed using **PHPMyAdmin & MySQL**  
+✅ **Secure Database** – Orders and user details are managed using **PHPMyAdmin & MySQL** 
+✅ **Cutomer Review** – Customers can add reviews
+
 
 ## 🛠️ Tech Stack  
 
@@ -65,8 +67,8 @@ $conn = new mysqli($servername, $username, $password, $database);
 
 🔹 **Online Payment Integration**  
 🔹 **Order Tracking System**  
-🔹 **User Authentication & Profiles**  
-🔹 **Reviews & Ratings**  
+
+
 
 ## 📌 Contributing  
 
